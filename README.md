@@ -178,6 +178,8 @@ Signed,
 - Dorian Peregrim ([@DorianPeregrim](https://github.com/DorianPeregrim)), PHP Developer, Russia 🇷🇺
 - Dmitriy Zhuchkov ([@Xynobo](https://github.com/Xynobo)), PHP Developer, 🇷🇺 Russia
 - Ghazif Adeem ([@Ghazif](https://github.com/Ghazif-Adeem)), PHP/Laravel Developer, Pakistan
+- nielFernandez ([@nielsofficeOfficial](https://github.com/nielsofficeofficial)), PHPDeveloper/Programmer, Philippines
+- nielsoffice ([@nielsofficeOfficial](https://github.com/nielsofficeofficial/PHPHtml-Optimizer)), PHPHtml-Optimizer cooked by nielsOffice
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
